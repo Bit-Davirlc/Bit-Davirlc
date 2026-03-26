@@ -14,11 +14,10 @@ Busco unir programação com automação, deploy e arquitetura escalável.
 
 ## 🛠️ Tecnologias & Ferramentas
 💻 Desenvolvimento:
-- JavaScript | Node.js | Python
+- JavaScript | Node.js | C# | HTML | CSS
 
 🌐 Infra & Cloud:
-- Linux
-- Docker
+- Linux | Windows
 - AWS (em aprendizado)
 - Redes (TCP/IP, DNS, HTTP)
 
