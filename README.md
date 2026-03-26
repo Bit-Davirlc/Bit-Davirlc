@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá 👋, eu sou o Davi
 
-<!--
-**Bit-Davirlc/Bit-Davirlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em transição para Infraestrutura & Cloud  
+🌐 Focado em redes, automação e computação em nuvem  
+🚀 Em constante aprendizado  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+Sou desenvolvedor com interesse crescente em infraestrutura de redes e cloud computing.  
+Busco unir programação com automação, deploy e arquitetura escalável.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+💻 Desenvolvimento:
+- JavaScript | Node.js | Python
+
+🌐 Infra & Cloud:
+- Linux
+- Docker
+- AWS (em aprendizado)
+- Redes (TCP/IP, DNS, HTTP)
+
+---
+
+## 📚 Atualmente estudando
+- Cloud Computing (AWS)
+- Docker
+- Redes
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bit-Davirlc&show_icons=true&theme=tokyonight)
