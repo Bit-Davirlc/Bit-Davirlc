@@ -14,12 +14,13 @@ Busco unir programação com automação, deploy e arquitetura escalável.
 
 ## 🛠️ Tecnologias & Ferramentas
 💻 Desenvolvimento:
-- JavaScript | Node.js | C# | HTML | CSS
+- JavaScript | Node.js | C# | HTML | CSS | MySQL
 
 🌐 Infra & Cloud:
 - Linux | Windows
 - AWS (em aprendizado)
 - Redes (TCP/IP, DNS, HTTP)
+- Banco de Dados
 
 ---
 
@@ -27,8 +28,3 @@ Busco unir programação com automação, deploy e arquitetura escalável.
 - Cloud Computing (AWS)
 - Docker
 - Redes
-
----
-
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bit-Davirlc&show_icons=true&theme=tokyonight)
